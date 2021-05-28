@@ -27,6 +27,7 @@ CONCEPT:
 	pieces of wood, flexible cables, breadboard and an ESP32.
 
 FUNCTIONS OF EACH PART:
+
 	1.	The servo motto 1 will enable the robot arm move at an angle 
 			180 degrees from the left at 0 degrees to the right at 180 degrees
 			and vice versa.
@@ -40,7 +41,9 @@ FUNCTIONS OF EACH PART:
 	4.	The last servon  which is the fourth servo controls the gripping of objects.
 			The servo allows the grip to open at an angle correspponding to the size of the object to grap.
 	
-MODE OF COMMUNICATION
+MODE OF COMMUNICATION:
+
+
 		A mobile app is developed of which by Bluetooth connection 
 		with the MCU will enable communication between the mobile 
 		phone and the robot arm. 
