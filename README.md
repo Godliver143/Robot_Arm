@@ -19,10 +19,12 @@ MATERIALS USED:
 	5.	Breadboard
 
 PURPOSE:
+
 	The purpose of the robot arm is to mechanically pick up items 
 	around its sphere of contact and drop them where necessary.
 
 CONCEPT:
+
 	The robot arm is built with four servo mottos,
 	pieces of wood, flexible cables, breadboard and an ESP32.
 
