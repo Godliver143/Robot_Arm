@@ -1,6 +1,6 @@
 # Robot_Arm
 
-	This project is a robot arm built by myself and my team mate Seth Deli.
+	This project is a robot arm built by myself and my team mate Seth Deli along with Enoch Sem.
 
 INTRODUCTION
 
